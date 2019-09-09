@@ -1,0 +1,5 @@
+org\miranda\EmailPassword.class
+org\miranda\ListUsers.class
+org\miranda\User.class
+org\miranda\Item.class
+org\miranda\State.class

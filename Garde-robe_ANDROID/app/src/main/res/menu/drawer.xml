@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group_delete">
+        <item android:id="@+id/menu_list"
+            android:title="@string/menu_listActivity"
+            android:icon="@drawable/ic_format_list_bulleted_black_24dp"/>
+        <item android:id="@+id/menu_add"
+            android:title="@string/menu_addActivity"
+            android:icon="@drawable/ic_add_box_black_24dp"/>
+        <item android:id="@+id/menu_logOut"
+            android:title="@string/menu_logOut"
+            android:icon="@drawable/ic_power_settings_new_black_24dp"/>
+    </group>
+</menu>

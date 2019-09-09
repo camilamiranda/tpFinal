@@ -1,0 +1,3 @@
+org\miranda\WebService.class
+org\miranda\CatchAllMapper.class
+org\miranda\GSONMapper.class
