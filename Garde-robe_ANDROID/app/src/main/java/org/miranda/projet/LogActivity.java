@@ -112,6 +112,7 @@ public class LogActivity extends AppCompatActivity {
         }
         else {
             Toast.makeText(getApplicationContext(), R.string.errorCredentials, Toast.LENGTH_SHORT).show();
+            int o = 0;
         }
     }
 
